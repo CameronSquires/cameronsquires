@@ -1,6 +1,7 @@
 - 🗒️ Name: Cameron
 - 🌱 School: Memorial University of Newfoundland
 - 💻 Pursuing: B.Sc Majoring in Computer Science, Minoring in Mathematics
+- 🕐 Current Year: Year 3 (4 Total)
 
 <hr>
 
