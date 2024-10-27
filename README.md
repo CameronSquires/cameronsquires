@@ -16,3 +16,7 @@
 [![My Twitter](https://img.shields.io/badge/-Twitter-white?logo=twitter&logoColor=1DA1F2&style=flat&logoWidth=30)](https://twitter.com/CameronSquires_)
 [![My Twitch](https://img.shields.io/badge/-Twitch-white?logo=twitch&logoColor=9146FF&style=flat&logoWidth=30)](https://www.twitch.tv/camsquires)
 [![My Website/Portfolio](https://img.shields.io/badge/-Website/Portfolio-white?logo=html5&logoColor=#E34F26&style=flat&logoWidth=30)](https://cameronsquires.github.io)
+
+<hr>
+
+[![](https://visitcount.itsvg.in/api?id=CameronSquires&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
