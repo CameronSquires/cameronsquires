@@ -1,7 +1,6 @@
 - 🗒️ Name: Cameron
 - 🌱 School: Memorial University of Newfoundland
-- 💻 Pursuing: B.Sc Majoring in Computer Science, Minoring in Mathematics
-- 🕐 Current Year: Year 4 (4 Total)
+- 💻 Completed: B.Sc Majoring in Computer Science, Minoring in Mathematics
 
 <hr>
 
@@ -13,11 +12,6 @@
 
 [![My GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat&logoWidth=30)](https://github.com/CameronSquires)
 [![My LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=flat&logoWidth=30)](https://www.linkedin.com/in/cameron-squires-b393b2209/)
-[![My Twitter](https://img.shields.io/badge/-X/Twitter-white?logo=X&logoColor=000000&style=flat&logoWidth=30)](https://twitter.com/CameronSquires_)
-[![My Bluesky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/cameronsquires.bsky.social)
-[![My Twitch](https://img.shields.io/badge/-Twitch-white?logo=twitch&logoColor=9146FF&style=flat&logoWidth=30)](https://www.twitch.tv/camsquires)
-[![My Website/Portfolio](https://img.shields.io/badge/-Website/Portfolio-white?logo=html5&logoColor=#E34F26&style=flat&logoWidth=30)](https://cameronsquires.github.io)
-
 
 <hr>
 
